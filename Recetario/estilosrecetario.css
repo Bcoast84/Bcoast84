@@ -1,0 +1,45 @@
+@charset "utf 8";
+body {
+    background-image: url(../imgs/fondo2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px;
+}
+header h1{
+    color:rgb(24, 54, 136);
+    text-shadow: 2px 2px 4px #555; /* Agrega una sombra con desplazamiento */
+    background-color: #769cd6; /* Color de fondo del texto */
+    padding: 10px; /* Espacio de relleno para dar más relieve */
+    border: 1px solid #000; /* Borde para mejorar el efecto */
+}
+
+nav ul {
+    list-style: none; /* Para eliminar los puntos de lista predeterminados */
+    padding: 20; /* Elimina el relleno predeterminado */
+    text-align: center;
+}
+
+nav ul li {
+    display: inline; /* Coloca los elementos de lista en línea */
+    margin-right: 40px; /* Añade un margen derecho para separar los elementos (ajusta según sea necesario) */
+}
+h1 {
+    text-align: center;
+    line-height: 2;
+    text-shadow: 2px 2px 4px #555;
+   
+    
+}
+
+.ingredientes, .proceso {
+    margin: 20px;
+    margin-bottom: 5px; /* Añade espacio entre elementos <li> */
+    
+}
+.ingredientes{
+    line-height: 3.5;
+}
+.proceso{
+    line-height: 2;
+}
+
