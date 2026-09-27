@@ -15,6 +15,19 @@ Administrador de sistemas enfocado en la estabilidad, seguridad y automatizació
 
 ---
 
+### 🛡️ Certificaciones & Seguridad Especializada
+
+* **Director de Seguridad** — Universidad Carlos III de Madrid (UC3M).
+  * *Gestión integral de la seguridad, análisis de riesgos físicos y lógicos, planes de autoprotección y cumplimiento normativo.*
+* **Técnico en Ciberseguridad** — Instituto Nacional de Ciberseguridad (INCIBE).
+  * *Detección de incidentes, buenas prácticas defensivas y bastionado de sistemas.*
+* **Curso Básico en Ciberseguridad** — Centro Criptológico Nacional (CCN-CERT).
+  * *Seguridad de la información, marco ENS y mitigación de amenazas en redes y sistemas.*
+* **Piloto de UAS / Drones** — Licencias y certificaciones oficiales en vigor (A1/A3, A2, STS).
+  * *Operaciones aéreas avanzadas, normativa de espacio aéreo y recopilación de datos técnicos.*
+
+---
+
 ### 🛠️ Stack Tecnológico
 
 | Dominio | Tecnologías y Herramientas |
